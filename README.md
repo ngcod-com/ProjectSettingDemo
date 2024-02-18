@@ -1,5 +1,5 @@
 # 在插件中增加项目设置项
-
+![logo](images/logo.png)
 ![](images/desc.png)
 
 # 关于RegisterSettings参数
